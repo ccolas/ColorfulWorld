@@ -1,4 +1,4 @@
-# Colors of Our World
+# Chromatic Cartography
 
 ![](/src/medley_paysage.png)
 
